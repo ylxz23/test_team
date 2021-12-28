@@ -1,4 +1,4 @@
-num1 = 10000000 # Jared
+num1 = 1000 # Jared
 
 num2 = 2000 #  zs
 
